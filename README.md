@@ -1,5 +1,3 @@
-# rn-assignment-ruthwik
-
 # Counter App - React Native Assignment
 
 A simple counter application with smooth animations built with React Native and Expo.
